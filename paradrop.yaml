@@ -6,7 +6,7 @@ description: This chute says hello
 name: yugali-halo15-hello
 source:
   type: git
-  url: https://github.com/yugaligullapalli/Parachute_Helloworld
+  url: https://github.com/yugaligullapalli/Para2
 type: light
 use: node
 version: 1
